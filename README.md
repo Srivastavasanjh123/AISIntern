@@ -8,6 +8,7 @@ Steps followed are:
 Applications used:
 1.React
 2.CSS
+Note-  All codes are included in main branch.Kindly check codes on that branch.
 Deployment link=>
 you can view deployed link here https://srivastavasanjh123.github.io/AISIntern/
 
