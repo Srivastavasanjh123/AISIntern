@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/AISIntern/static/css/main.38a8654a.css",
+    "main.js": "/AISIntern/static/js/main.ee75980b.js",
+    "static/js/453.64512fd7.chunk.js": "/AISIntern/static/js/453.64512fd7.chunk.js",
+    "index.html": "/AISIntern/index.html",
+    "main.38a8654a.css.map": "/AISIntern/static/css/main.38a8654a.css.map",
+    "main.ee75980b.js.map": "/AISIntern/static/js/main.ee75980b.js.map",
+    "453.64512fd7.chunk.js.map": "/AISIntern/static/js/453.64512fd7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.38a8654a.css",
+    "static/js/main.ee75980b.js"
+  ]
+}
