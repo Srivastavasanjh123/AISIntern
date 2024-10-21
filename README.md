@@ -6,9 +6,9 @@ This whole project is based on react based application.
 
 Steps followed are:
 
-1.Create react app
+1. Create react app
 
-2.create components folder and include AIS.js,Options.js,SubmitButton.js,Questions.js,Timer.js.
+2. Create components folder and include AIS.js,Options.js,SubmitButton.js,Questions.js,Timer.js.
 
 3. Write code for implementation in each component and add all smaller components in AIS.js component.
   
