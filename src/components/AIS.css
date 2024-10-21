@@ -1,0 +1,45 @@
+.AIS-container{
+    width:60%;
+    margin: 20px auto;
+    padding: 80px 20px 20px;
+    background-color: #edf7fa;
+    border-radiun:10px;
+    box-shadow:0 4px 8px rgba(0,0,0,0.1);
+
+}
+.timer{
+    font-size:18px;
+    font-weight: bold;
+    margin-bottom:10px;
+}
+.question{
+    font-size:24px;
+    margin-bottom:20px;
+}
+.options{
+    display:flex;
+    flex-direction:column;
+    gap:10px;
+}
+.option{
+    padding:10px;
+    border:2px solid #ccc;
+    border-radius:5px;
+    cursor:pointer;
+    transition:background-color 0.3s;
+
+}
+.submit-button{
+    margin-top:20px;
+    padding:10px 20px;
+    font-size:18px;
+    color:white;
+    background-color:#007bff;
+    border:none;
+    border-radius:5px;
+    cursor:pointer;
+    transition:background-color 0.3s;
+}
+.submit-button:hover{
+    background-color:#0056b3
+}
